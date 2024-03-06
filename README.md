@@ -17,7 +17,7 @@ Login and Registration form using JavaScript, HTML and CSS.
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
        git clone https://github.com/lopesmfelipe/Login-Registration-Form.git
-3. Run the application :D
+   Run the application :D
  
 
 ## Share it with others!
